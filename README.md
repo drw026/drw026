@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Andrew,
 
-I'm a experienced Frontend Developer with over 10 years of creating clean, sustainable, and readable code. Passionate about collaborating with talented and motivated team members, staying up-to-date with the latest tech stack, and helping junior developers grow. Always eager to learn and bring innovative solutions to the table.
+I'm a experienced Frontend Developer with over 10 years of creating clean :sparkles: , sustainable 🌱, and readable :eyeglasses: code. Passionate about collaborating with talented and motivated team members, staying up-to-date with the latest tech stack, and helping junior developers grow. Always eager to learn and bring innovative solutions to the table.
 
 
 <!--
